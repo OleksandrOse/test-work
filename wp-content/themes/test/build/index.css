@@ -448,7 +448,7 @@ h1 {
 }
 
 .card {
-  margin: 100px 0 0;
+  margin: 100px 0 50px;
   padding: 44px 80px;
   background-color: #e5e5e5;
   height: 470px;
